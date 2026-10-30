@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>toptal-application</title></head>
+<body style="font-family:sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem">
+<h1>toptal-application</h1>
+<p>A personal automation tool used only by its owner (Olivier Scialom). It logs job applications to the owner's own Google Sheet and saves drafted application documents to the owner's own Google Drive folder.</p>
+<p>It is not offered to the public and has no other users.</p>
+<p><a href="privacy.html">Privacy policy</a> &middot; Contact: oscialom@gmail.com</p>
+</body></html>
