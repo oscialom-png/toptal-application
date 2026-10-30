@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>toptal-application privacy policy</title></head>
+<body style="font-family:sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem">
+<h1>Privacy policy</h1>
+<p><em>Last updated: 30 October 2026</em></p>
+<p>toptal-application is a personal automation tool used only by its owner, Olivier Scialom. It has no other users.</p>
+<h2>What it accesses</h2>
+<p>With the owner's Google authorization, it reads and writes the owner's own Google Sheets tracking sheet and creates documents in the owner's own Google Drive folder.</p>
+<h2>What it stores and shares</h2>
+<p>It does not collect data about anyone else, does not sell or share data with third parties, and does not use Google user data for advertising. The only credential kept is the owner's Google refresh token, stored as a private secret in the owner's own GitHub account.</p>
+<h2>Revoking access</h2>
+<p>The owner can revoke access at any time at <a href="https://myaccount.google.com/permissions">myaccount.google.com/permissions</a>.</p>
+<h2>Contact</h2>
+<p>oscialom@gmail.com</p>
+</body></html>
